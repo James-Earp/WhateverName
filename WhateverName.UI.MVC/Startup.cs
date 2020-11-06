@@ -1,7 +1,5 @@
-﻿using Microsoft.Owin;
-using Owin;
+﻿using Owin;
 
-[assembly: OwinStartupAttribute(typeof(WhateverName.UI.MVC.Startup))]
 namespace WhateverName.UI.MVC
 {
     public partial class Startup
